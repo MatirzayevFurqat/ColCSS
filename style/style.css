@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  background: #999;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background: #f45a56;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  color: #fff;
+  font-family: arial;
+  text-transform: uppercase;
+  font-weight: 700;
+}
